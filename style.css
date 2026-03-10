@@ -315,7 +315,7 @@ nav ul li a:hover::after{
     margin-right: 15px;
     font-size: 25px;
 }
-.social-icon{
+.social-icons{
     margin-top: 30px;
 }
 
@@ -448,6 +448,7 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
 
 
 
